@@ -23,3 +23,15 @@ alias lt='ls -lAtrh'              # sort by date and human readable
 alias fur='fuser -u * 2>&1 |grep rwa'
 alias backup_file='bu'
 alias mkcd='mkcd'
+
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
+alias gc='git commit'
+alias gd='git diff'
+alias go='git checkout '
+alias gk='gitk --all&'
+alias gx='gitx --all'
+
+alias got='git '
+alias get='git '
