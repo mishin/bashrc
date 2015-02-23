@@ -289,3 +289,4 @@ rewrite_commit_date () {
 
 #export PROMPT_COMMAND="_update_ps1; $PROMPT_COMMAND"
 
+[[ "$PS1" ]] && /usr/games/fortune | /usr/games/cowsay -n
